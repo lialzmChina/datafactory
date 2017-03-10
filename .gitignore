@@ -6,3 +6,5 @@ target/*
 .classpath
 .idea/*
 *.iml
+/src/main/resources/resources.properties
+
